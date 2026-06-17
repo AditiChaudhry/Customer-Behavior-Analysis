@@ -208,6 +208,6 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
 
 ## Author
 
-**Your Name**
+**Aditi Chaudhry**
 
 Data Analytics Project | Python | SQL | PostgreSQL | Power BI
